@@ -5,10 +5,8 @@ ignore_words = ['?', '!',',','.', "'s", "'m"]
 
 import json
 import pickle
-
 import numpy as np
 import random
-
 import tensorflow
 from data_preprocessing import get_stem_words
 
